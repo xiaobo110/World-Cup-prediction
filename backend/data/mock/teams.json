@@ -1,0 +1,674 @@
+[
+  {
+    "id": "usa", "name": "United States", "name_zh": "美国", "code": "USA", "fifa_rank": 28, "elo_rating": 1653,
+    "flag_emoji": "\ud83c\uddfa\ud83c\uddf8", "group": "A", "attack_strength": 1.15, "defense_strength": 1.10,
+    "avg_goals_scored": 1.55, "avg_goals_conceded": 1.20,
+    "form": [1, 0.5, 1, 0, 1, 0.5, 0, 1, 1, 0.5],
+    "market_value_eur": 280000000,
+    "squad": [
+      {"name": "Christian Pulisic", "position": "FW", "number": 10, "club": "AC Milan", "market_value_eur": 45000000},
+      {"name": "Weston McKennie", "position": "MF", "number": 8, "club": "Juventus", "market_value_eur": 22000000},
+      {"name": "Gio Reyna", "position": "MF", "number": 7, "club": "Borussia Dortmund", "market_value_eur": 30000000},
+      {"name": "Tyler Adams", "position": "MF", "number": 4, "club": "AFC Bournemouth", "market_value_eur": 25000000},
+      {"name": "Matt Turner", "position": "GK", "number": 1, "club": "Crystal Palace", "market_value_eur": 10000000}
+    ]
+  },
+  {
+    "id": "mex", "name": "Mexico", "name_zh": "墨西哥", "code": "MEX", "fifa_rank": 15, "elo_rating": 1752,
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddfd", "group": "A", "attack_strength": 1.25, "defense_strength": 1.15,
+    "avg_goals_scored": 1.70, "avg_goals_conceded": 1.05,
+    "form": [1, 1, 0.5, 1, 0, 1, 0.5, 1, 0.5, 1],
+    "market_value_eur": 320000000,
+    "squad": [
+      {"name": "Hirving Lozano", "position": "FW", "number": 22, "club": "PSV Eindhoven", "market_value_eur": 30000000},
+      {"name": "Edson Alvarez", "position": "MF", "number": 4, "club": "West Ham United", "market_value_eur": 35000000},
+      {"name": "Santiago Gimenez", "position": "FW", "number": 9, "club": "Feyenoord", "market_value_eur": 40000000},
+      {"name": "Guillermo Ochoa", "position": "GK", "number": 13, "club": "Club America", "market_value_eur": 3000000},
+      {"name": "Jesus Gallardo", "position": "DF", "number": 23, "club": "Club America", "market_value_eur": 5000000}
+    ]
+  },
+  {
+    "id": "kor", "name": "South Korea", "name_zh": "韩国", "code": "KOR", "fifa_rank": 19, "elo_rating": 1718,
+    "flag_emoji": "\ud83c\uddf0\ud83c\uddf7", "group": "A", "attack_strength": 1.35, "defense_strength": 1.10,
+    "avg_goals_scored": 1.80, "avg_goals_conceded": 1.10,
+    "form": [1, 0.5, 1, 1, 0, 0.5, 1, 1, 0.5, 1],
+    "market_value_eur": 250000000,
+    "squad": [
+      {"name": "Son Heung-min", "position": "FW", "number": 7, "club": "Tottenham Hotspur", "market_value_eur": 55000000},
+      {"name": "Kim Min-jae", "position": "DF", "number": 4, "club": "Bayern Munich", "market_value_eur": 50000000},
+      {"name": "Lee Kang-in", "position": "MF", "number": 18, "club": "Paris Saint-Germain", "market_value_eur": 40000000},
+      {"name": "Kim Jong-kyu", "position": "GK", "number": 1, "club": "Ulsan HD", "market_value_eur": 2000000},
+      {"name": "Hwang Hee-chan", "position": "FW", "number": 11, "club": "Wolverhampton", "market_value_eur": 25000000}
+    ]
+  },
+  {
+    "id": "nzl", "name": "New Zealand", "name_zh": "新西兰", "code": "NZL", "fifa_rank": 92, "elo_rating": 1445,
+    "flag_emoji": "\ud83c\uddf3\ud83c\uddff", "group": "A", "attack_strength": 0.65, "defense_strength": 1.40,
+    "avg_goals_scored": 0.75, "avg_goals_conceded": 1.80,
+    "form": [0, 0, 0.5, 0, 0, 0.5, 0, 0, 0.5, 0],
+    "market_value_eur": 18000000,
+    "squad": [
+      {"name": "Chris Wood", "position": "FW", "number": 9, "club": "Nottingham Forest", "market_value_eur": 12000000},
+      {"name": "Joe Bell", "position": "MF", "number": 6, "club": "Viking FK", "market_value_eur": 1500000},
+      {"name": "Max Crocombe", "position": "GK", "number": 1, "club": "Burton Albion", "market_value_eur": 500000},
+      {"name": "Bill Tuiloma", "position": "DF", "number": 5, "club": "Portland Timbers", "market_value_eur": 1000000},
+      {"name": "Sarpreet Singh", "position": "MF", "number": 10, "club": "Wellington Phoenix", "market_value_eur": 800000}
+    ]
+  },
+  {
+    "id": "arg", "name": "Argentina", "name_zh": "阿根廷", "code": "ARG", "fifa_rank": 1, "elo_rating": 2078,
+    "flag_emoji": "\ud83c\udde6\ud83c\uddf7", "group": "B", "attack_strength": 1.90, "defense_strength": 0.80,
+    "avg_goals_scored": 2.40, "avg_goals_conceded": 0.70,
+    "form": [1, 1, 1, 0.5, 1, 1, 1, 0.5, 1, 1],
+    "market_value_eur": 950000000,
+    "squad": [
+      {"name": "Lionel Messi", "position": "FW", "number": 10, "club": "Inter Miami", "market_value_eur": 45000000},
+      {"name": "Julian Alvarez", "position": "FW", "number": 9, "club": "Atletico Madrid", "market_value_eur": 85000000},
+      {"name": "Emiliano Martinez", "position": "GK", "number": 23, "club": "Aston Villa", "market_value_eur": 35000000},
+      {"name": "Enzo Fernandez", "position": "MF", "number": 24, "club": "Chelsea", "market_value_eur": 75000000},
+      {"name": "Nicolas Otamendi", "position": "DF", "number": 19, "club": "Benfica", "market_value_eur": 8000000}
+    ]
+  },
+  {
+    "id": "aus", "name": "Australia", "name_zh": "澳大利亚", "code": "AUS", "fifa_rank": 24, "elo_rating": 1672,
+    "flag_emoji": "\ud83c\udde6\ud83c\uddfa", "group": "B", "attack_strength": 1.05, "defense_strength": 1.25,
+    "avg_goals_scored": 1.35, "avg_goals_conceded": 1.15,
+    "form": [0.5, 1, 0, 1, 0.5, 0, 1, 0.5, 1, 0.5],
+    "market_value_eur": 65000000,
+    "squad": [
+      {"name": "Mathew Leckie", "position": "FW", "number": 7, "club": "Melbourne City", "market_value_eur": 3000000},
+      {"name": "Aaron Mooy", "position": "MF", "number": 13, "club": "Celtic", "market_value_eur": 5000000},
+      {"name": "Harry Souttar", "position": "DF", "number": 4, "club": "Leicester City", "market_value_eur": 12000000},
+      {"name": "Mathew Ryan", "position": "GK", "number": 1, "club": "AZ Alkmaar", "market_value_eur": 4000000},
+      {"name": "Mitchell Duke", "position": "FW", "number": 9, "club": "Machida Zelvia", "market_value_eur": 2000000}
+    ]
+  },
+  {
+    "id": "tun", "name": "Tunisia", "name_zh": "突尼斯", "code": "TUN", "fifa_rank": 38, "elo_rating": 1578,
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddf3", "group": "B", "attack_strength": 0.95, "defense_strength": 1.20,
+    "avg_goals_scored": 1.15, "avg_goals_conceded": 1.10,
+    "form": [0.5, 0, 1, 0.5, 0, 0.5, 1, 0, 0.5, 0.5],
+    "market_value_eur": 42000000,
+    "squad": [
+      {"name": "Wahbi Khazri", "position": "FW", "number": 10, "club": "Montpellier", "market_value_eur": 5000000},
+      {"name": "Aissa Laidouni", "position": "MF", "number": 8, "club": "Union Berlin", "market_value_eur": 6000000},
+      {"name": "Bechir Ben Said", "position": "GK", "number": 1, "club": "US Monastir", "market_value_eur": 800000},
+      {"name": "Yassine Meriah", "position": "DF", "number": 4, "club": "Esperance", "market_value_eur": 2000000},
+      {"name": "Anis Ben Slimane", "position": "MF", "number": 18, "club": "Sheffield United", "market_value_eur": 4000000}
+    ]
+  },
+  {
+    "id": "bol", "name": "Bolivia", "name_zh": "玻利维亚", "code": "BOL", "fifa_rank": 83, "elo_rating": 1468,
+    "flag_emoji": "\ud83c\udde7\ud83c\uddf4", "group": "B", "attack_strength": 0.60, "defense_strength": 1.50,
+    "avg_goals_scored": 0.65, "avg_goals_conceded": 1.90,
+    "form": [0, 0, 0, 0.5, 0, 0, 0, 0.5, 0, 0],
+    "market_value_eur": 12000000,
+    "squad": [
+      {"name": "Marcelo Moreno", "position": "FW", "number": 9, "club": "Cruzeiro", "market_value_eur": 1500000},
+      {"name": "Ramiro Vaca", "position": "MF", "number": 10, "club": "The Strongest", "market_value_eur": 1200000},
+      {"name": "Carlos Lampe", "position": "GK", "number": 1, "club": "Always Ready", "market_value_eur": 400000},
+      {"name": "Luis Haquin", "position": "DF", "number": 13, "club": "Puebla", "market_value_eur": 1000000},
+      {"name": "Miguel Terceros", "position": "FW", "number": 11, "club": "Blooming", "market_value_eur": 800000}
+    ]
+  },
+  {
+    "id": "fra", "name": "France", "name_zh": "法国", "code": "FRA", "fifa_rank": 2, "elo_rating": 2050,
+    "flag_emoji": "\ud83c\uddeb\ud83c\uddf7", "group": "C", "attack_strength": 1.95, "defense_strength": 0.85,
+    "avg_goals_scored": 2.50, "avg_goals_conceded": 0.75,
+    "form": [1, 1, 0.5, 1, 1, 0.5, 1, 1, 1, 0.5],
+    "market_value_eur": 1100000000,
+    "squad": [
+      {"name": "Kylian Mbappe", "position": "FW", "number": 10, "club": "Real Madrid", "market_value_eur": 180000000},
+      {"name": "Antoine Griezmann", "position": "FW", "number": 7, "club": "Atletico Madrid", "market_value_eur": 50000000},
+      {"name": "Aurelien Tchouameni", "position": "MF", "number": 8, "club": "Real Madrid", "market_value_eur": 80000000},
+      {"name": "William Saliba", "position": "DF", "number": 2, "club": "Arsenal", "market_value_eur": 75000000},
+      {"name": "Mike Maignan", "position": "GK", "number": 16, "club": "AC Milan", "market_value_eur": 35000000}
+    ]
+  },
+  {
+    "id": "col", "name": "Colombia", "name_zh": "哥伦比亚", "code": "COL", "fifa_rank": 12, "elo_rating": 1792,
+    "flag_emoji": "\ud83c\udde8\ud83c\uddf4", "group": "C", "attack_strength": 1.40, "defense_strength": 1.00,
+    "avg_goals_scored": 1.85, "avg_goals_conceded": 0.95,
+    "form": [1, 0.5, 1, 1, 0, 1, 0.5, 1, 1, 0.5],
+    "market_value_eur": 380000000,
+    "squad": [
+      {"name": "Luis Diaz", "position": "FW", "number": 7, "club": "Liverpool", "market_value_eur": 75000000},
+      {"name": "James Rodriguez", "position": "MF", "number": 10, "club": "Rayo Vallecano", "market_value_eur": 8000000},
+      {"name": "Davinson Sanchez", "position": "DF", "number": 13, "club": "Galatasaray", "market_value_eur": 15000000},
+      {"name": "Camilo Vargas", "position": "GK", "number": 1, "club": "Atlas", "market_value_eur": 5000000},
+      {"name": "Rafael Santos Borre", "position": "FW", "number": 9, "club": "Internacional", "market_value_eur": 12000000}
+    ]
+  },
+  {
+    "id": "jpn", "name": "Japan", "name_zh": "日本", "code": "JPN", "fifa_rank": 16, "elo_rating": 1748,
+    "flag_emoji": "\ud83c\uddef\ud83c\uddf5", "group": "C", "attack_strength": 1.35, "defense_strength": 1.05,
+    "avg_goals_scored": 1.75, "avg_goals_conceded": 1.00,
+    "form": [1, 0.5, 1, 0, 1, 1, 0.5, 0, 1, 1],
+    "market_value_eur": 310000000,
+    "squad": [
+      {"name": "Takumi Minamino", "position": "FW", "number": 18, "club": "AS Monaco", "market_value_eur": 20000000},
+      {"name": "Takefusa Kubo", "position": "FW", "number": 11, "club": "Real Sociedad", "market_value_eur": 35000000},
+      {"name": "Wataru Endo", "position": "MF", "number": 3, "club": "Liverpool", "market_value_eur": 18000000},
+      {"name": "Shuichi Gonda", "position": "GK", "number": 1, "club": "Shimizu S-Pulse", "market_value_eur": 2000000},
+      {"name": "Kaoru Mitoma", "position": "FW", "number": 9, "club": "Brighton", "market_value_eur": 45000000}
+    ]
+  },
+  {
+    "id": "par", "name": "Paraguay", "name_zh": "巴拉圭", "code": "PAR", "fifa_rank": 57, "elo_rating": 1548,
+    "flag_emoji": "\ud83c\uddf5\ud83c\uddfe", "group": "C", "attack_strength": 0.80, "defense_strength": 1.25,
+    "avg_goals_scored": 0.95, "avg_goals_conceded": 1.20,
+    "form": [0, 0.5, 0, 0, 0.5, 0, 0.5, 0, 0, 0.5],
+    "market_value_eur": 28000000,
+    "squad": [
+      {"name": "Miguel Almiron", "position": "MF", "number": 10, "club": "Newcastle United", "market_value_eur": 18000000},
+      {"name": "Julio Enciso", "position": "FW", "number": 18, "club": "Brighton", "market_value_eur": 15000000},
+      {"name": "Alfredo Aguilar", "position": "GK", "number": 1, "club": "Olimpia", "market_value_eur": 500000},
+      {"name": "Gustavo Gomez", "position": "DF", "number": 2, "club": "Palmeiras", "market_value_eur": 6000000},
+      {"name": "Angel Romero", "position": "FW", "number": 7, "club": "Corinthians", "market_value_eur": 4000000}
+    ]
+  },
+  {
+    "id": "eng", "name": "England", "name_zh": "英格兰", "code": "ENG", "fifa_rank": 4, "elo_rating": 1985,
+    "flag_emoji": "\ud83c\uddec\ud83c\udde7", "group": "D", "attack_strength": 1.80, "defense_strength": 0.90,
+    "avg_goals_scored": 2.20, "avg_goals_conceded": 0.80,
+    "form": [1, 0.5, 1, 1, 0.5, 1, 1, 0.5, 1, 1],
+    "market_value_eur": 1050000000,
+    "squad": [
+      {"name": "Harry Kane", "position": "FW", "number": 9, "club": "Bayern Munich", "market_value_eur": 110000000},
+      {"name": "Jude Bellingham", "position": "MF", "number": 10, "club": "Real Madrid", "market_value_eur": 150000000},
+      {"name": "Bukayo Saka", "position": "FW", "number": 17, "club": "Arsenal", "market_value_eur": 120000000},
+      {"name": "Declan Rice", "position": "MF", "number": 4, "club": "Arsenal", "market_value_eur": 100000000},
+      {"name": "Jordan Pickford", "position": "GK", "number": 1, "club": "Everton", "market_value_eur": 25000000}
+    ]
+  },
+  {
+    "id": "cro", "name": "Croatia", "name_zh": "克罗地亚", "code": "CRO", "fifa_rank": 9, "elo_rating": 1862,
+    "flag_emoji": "\ud83c\udded\ud83c\uddf7", "group": "D", "attack_strength": 1.45, "defense_strength": 1.00,
+    "avg_goals_scored": 1.80, "avg_goals_conceded": 0.95,
+    "form": [0.5, 1, 0.5, 1, 1, 0.5, 0.5, 1, 0.5, 1],
+    "market_value_eur": 520000000,
+    "squad": [
+      {"name": "Luka Modric", "position": "MF", "number": 10, "club": "Real Madrid", "market_value_eur": 15000000},
+      {"name": "Mateo Kovacic", "position": "MF", "number": 8, "club": "Manchester City", "market_value_eur": 35000000},
+      {"name": "Marcelo Brozovic", "position": "MF", "number": 11, "club": "Al Nassr", "market_value_eur": 12000000},
+      {"name": "Dominik Livakovic", "position": "GK", "number": 1, "club": "Fenerbahce", "market_value_eur": 12000000},
+      {"name": "Josko Gvardiol", "position": "DF", "number": 20, "club": "Manchester City", "market_value_eur": 75000000}
+    ]
+  },
+  {
+    "id": "gha", "name": "Ghana", "name_zh": "加纳", "code": "GHA", "fifa_rank": 58, "elo_rating": 1542,
+    "flag_emoji": "\ud83c\uddec\ud83c\udded", "group": "D", "attack_strength": 1.00, "defense_strength": 1.30,
+    "avg_goals_scored": 1.20, "avg_goals_conceded": 1.35,
+    "form": [0, 0.5, 0, 1, 0, 0.5, 0, 0, 0.5, 0],
+    "market_value_eur": 85000000,
+    "squad": [
+      {"name": "Mohammed Kudus", "position": "FW", "number": 10, "club": "West Ham United", "market_value_eur": 45000000},
+      {"name": "Thomas Partey", "position": "MF", "number": 5, "club": "Arsenal", "market_value_eur": 40000000},
+      {"name": "Jordan Ayew", "position": "FW", "number": 20, "club": "Crystal Palace", "market_value_eur": 5000000},
+      {"name": "Lawrence Ati-Zigi", "position": "GK", "number": 1, "club": "St. Gallen", "market_value_eur": 2000000},
+      {"name": "Mohammed Salisu", "position": "DF", "number": 4, "club": "AS Monaco", "market_value_eur": 15000000}
+    ]
+  },
+  {
+    "id": "hon", "name": "Honduras", "name_zh": "洪都拉斯", "code": "HON", "fifa_rank": 76, "elo_rating": 1488,
+    "flag_emoji": "\ud83c\udded\ud83c\uddf3", "group": "D", "attack_strength": 0.65, "defense_strength": 1.45,
+    "avg_goals_scored": 0.70, "avg_goals_conceded": 1.85,
+    "form": [0, 0, 0.5, 0, 0, 0, 0, 0.5, 0, 0],
+    "market_value_eur": 16000000,
+    "squad": [
+      {"name": "Alberth Elis", "position": "FW", "number": 11, "club": "Club Brugge", "market_value_eur": 5000000},
+      {"name": "Alexander Lopez", "position": "MF", "number": 10, "club": "Olimpia", "market_value_eur": 1000000},
+      {"name": "Edrisa Gutierrez", "position": "GK", "number": 1, "club": "Real Espana", "market_value_eur": 400000},
+      {"name": "Maynor Figueroa", "position": "DF", "number": 3, "club": "Olimpia", "market_value_eur": 600000},
+      {"name": "Jorge Alvarez", "position": "MF", "number": 8, "club": "FC Cincinnati", "market_value_eur": 1500000}
+    ]
+  },
+  {
+    "id": "bra", "name": "Brazil", "name_zh": "巴西", "code": "BRA", "fifa_rank": 5, "elo_rating": 1978,
+    "flag_emoji": "\ud83c\udde7\ud83c\uddf7", "group": "E", "attack_strength": 1.85, "defense_strength": 0.88,
+    "avg_goals_scored": 2.30, "avg_goals_conceded": 0.78,
+    "form": [1, 0.5, 1, 1, 0, 1, 0.5, 1, 1, 0.5],
+    "market_value_eur": 980000000,
+    "squad": [
+      {"name": "Vinicius Jr", "position": "FW", "number": 20, "club": "Real Madrid", "market_value_eur": 150000000},
+      {"name": "Neymar Jr", "position": "FW", "number": 10, "club": "Al Hilal", "market_value_eur": 30000000},
+      {"name": "Alisson Becker", "position": "GK", "number": 1, "club": "Liverpool", "market_value_eur": 35000000},
+      {"name": "Rodrygo", "position": "FW", "number": 9, "club": "Real Madrid", "market_value_eur": 90000000},
+      {"name": "Marquinhos", "position": "DF", "number": 4, "club": "Paris Saint-Germain", "market_value_eur": 50000000}
+    ]
+  },
+  {
+    "id": "sui", "name": "Switzerland", "name_zh": "瑞士", "code": "SUI", "fifa_rank": 17, "elo_rating": 1738,
+    "flag_emoji": "\ud83c\udde8\ud83c\udded", "group": "E", "attack_strength": 1.20, "defense_strength": 1.00,
+    "avg_goals_scored": 1.50, "avg_goals_conceded": 0.95,
+    "form": [0.5, 1, 0.5, 0, 1, 0.5, 1, 0, 0.5, 1],
+    "market_value_eur": 340000000,
+    "squad": [
+      {"name": "Xherdan Shaqiri", "position": "MF", "number": 10, "club": "Chicago Fire", "market_value_eur": 5000000},
+      {"name": "Granit Xhaka", "position": "MF", "number": 34, "club": "Bayer Leverkusen", "market_value_eur": 25000000},
+      {"name": "Yann Sommer", "position": "GK", "number": 1, "club": "Inter Milan", "market_value_eur": 8000000},
+      {"name": "Manuel Akanji", "position": "DF", "number": 5, "club": "Manchester City", "market_value_eur": 40000000},
+      {"name": "Breel Embolo", "position": "FW", "number": 7, "club": "AS Monaco", "market_value_eur": 18000000}
+    ]
+  },
+  {
+    "id": "srb", "name": "Serbia", "name_zh": "塞尔维亚", "code": "SRB", "fifa_rank": 32, "elo_rating": 1618,
+    "flag_emoji": "\ud83c\uddf7\ud83c\uddf8", "group": "E", "attack_strength": 1.15, "defense_strength": 1.20,
+    "avg_goals_scored": 1.45, "avg_goals_conceded": 1.15,
+    "form": [0.5, 0, 1, 0.5, 0, 1, 0.5, 0, 0.5, 0],
+    "market_value_eur": 190000000,
+    "squad": [
+      {"name": "Dusan Vlahovic", "position": "FW", "number": 9, "club": "Juventus", "market_value_eur": 50000000},
+      {"name": "Sergej Milinkovic-Savic", "position": "MF", "number": 20, "club": "Al Hilal", "market_value_eur": 30000000},
+      {"name": "Dusan Tadic", "position": "MF", "number": 10, "club": "Fenerbahce", "market_value_eur": 8000000},
+      {"name": "Predrag Rajkovic", "position": "GK", "number": 1, "club": "RCD Mallorca", "market_value_eur": 10000000},
+      {"name": "Nikola Milenkovic", "position": "DF", "number": 4, "club": "Nottingham Forest", "market_value_eur": 20000000}
+    ]
+  },
+  {
+    "id": "cmr", "name": "Cameroon", "name_zh": "喀麦隆", "code": "CMR", "fifa_rank": 47, "elo_rating": 1562,
+    "flag_emoji": "\ud83c\udde8\ud83c\uddf2", "group": "E", "attack_strength": 1.00, "defense_strength": 1.25,
+    "avg_goals_scored": 1.15, "avg_goals_conceded": 1.20,
+    "form": [0, 0.5, 0, 0, 0.5, 0, 0.5, 0, 0, 0.5],
+    "market_value_eur": 95000000,
+    "squad": [
+      {"name": "Eric Maxim Choupo-Moting", "position": "FW", "number": 10, "club": "New York Red Bulls", "market_value_eur": 5000000},
+      {"name": "Andre-Frank Zambo Anguissa", "position": "MF", "number": 8, "club": "Napoli", "market_value_eur": 40000000},
+      {"name": "Bryan Mbeumo", "position": "FW", "number": 19, "club": "Brentford", "market_value_eur": 30000000},
+      {"name": "Andre Onana", "position": "GK", "number": 1, "club": "Manchester United", "market_value_eur": 35000000},
+      {"name": "Vincent Aboubakar", "position": "FW", "number": 9, "club": "Al Nassr", "market_value_eur": 4000000}
+    ]
+  },
+  {
+    "id": "por", "name": "Portugal", "name_zh": "葡萄牙", "code": "POR", "fifa_rank": 6, "elo_rating": 1952,
+    "flag_emoji": "\ud83c\uddf5\ud83c\uddf9", "group": "F", "attack_strength": 1.75, "defense_strength": 0.95,
+    "avg_goals_scored": 2.10, "avg_goals_conceded": 0.85,
+    "form": [1, 1, 0.5, 1, 0.5, 1, 1, 0.5, 1, 1],
+    "market_value_eur": 920000000,
+    "squad": [
+      {"name": "Cristiano Ronaldo", "position": "FW", "number": 7, "club": "Al Nassr", "market_value_eur": 15000000},
+      {"name": "Bruno Fernandes", "position": "MF", "number": 8, "club": "Manchester United", "market_value_eur": 70000000},
+      {"name": "Bernardo Silva", "position": "MF", "number": 10, "club": "Manchester City", "market_value_eur": 80000000},
+      {"name": "Rafael Leao", "position": "FW", "number": 17, "club": "AC Milan", "market_value_eur": 85000000},
+      {"name": "Diogo Costa", "position": "GK", "number": 22, "club": "FC Porto", "market_value_eur": 30000000}
+    ]
+  },
+  {
+    "id": "uru", "name": "Uruguay", "name_zh": "乌拉圭", "code": "URU", "fifa_rank": 13, "elo_rating": 1785,
+    "flag_emoji": "\ud83c\uddfa\ud83c\uddfe", "group": "F", "attack_strength": 1.45, "defense_strength": 0.95,
+    "avg_goals_scored": 1.80, "avg_goals_conceded": 0.85,
+    "form": [1, 0.5, 1, 0, 1, 0.5, 1, 1, 0.5, 1],
+    "market_value_eur": 480000000,
+    "squad": [
+      {"name": "Federico Valverde", "position": "MF", "number": 15, "club": "Real Madrid", "market_value_eur": 100000000},
+      {"name": "Darwin Nunez", "position": "FW", "number": 9, "club": "Liverpool", "market_value_eur": 55000000},
+      {"name": "Ronald Araujo", "position": "DF", "number": 4, "club": "Barcelona", "market_value_eur": 60000000},
+      {"name": "Luis Suarez", "position": "FW", "number": 9, "club": "Inter Miami", "market_value_eur": 5000000},
+      {"name": "Sergio Rochet", "position": "GK", "number": 1, "club": "Nacional", "market_value_eur": 3000000}
+    ]
+  },
+  {
+    "id": "can", "name": "Canada", "name_zh": "加拿大", "code": "CAN", "fifa_rank": 40, "elo_rating": 1592,
+    "flag_emoji": "\ud83c\udde8\ud83c\udde6", "group": "F", "attack_strength": 1.05, "defense_strength": 1.30,
+    "avg_goals_scored": 1.25, "avg_goals_conceded": 1.30,
+    "form": [0.5, 1, 0, 0.5, 1, 0, 0.5, 0, 1, 0.5],
+    "market_value_eur": 110000000,
+    "squad": [
+      {"name": "Alphonso Davies", "position": "DF", "number": 19, "club": "Real Madrid", "market_value_eur": 50000000},
+      {"name": "Jonathan David", "position": "FW", "number": 10, "club": "Lille", "market_value_eur": 40000000},
+      {"name": "Cyle Larin", "position": "FW", "number": 17, "club": "RCD Mallorca", "market_value_eur": 8000000},
+      {"name": "Stephen Eustaquio", "position": "MF", "number": 7, "club": "FC Porto", "market_value_eur": 22000000},
+      {"name": "Dayne St. Clair", "position": "GK", "number": 1, "club": "Minnesota United", "market_value_eur": 2000000}
+    ]
+  },
+  {
+    "id": "ksa", "name": "Saudi Arabia", "name_zh": "沙特阿拉伯", "code": "KSA", "fifa_rank": 55, "elo_rating": 1552,
+    "flag_emoji": "\ud83c\uddf8\ud83c\udde6", "group": "F", "attack_strength": 0.80, "defense_strength": 1.30,
+    "avg_goals_scored": 0.95, "avg_goals_conceded": 1.30,
+    "form": [0.5, 0, 0.5, 1, 0, 0.5, 0, 0.5, 0, 0.5],
+    "market_value_eur": 32000000,
+    "squad": [
+      {"name": "Salem Al Dawsari", "position": "FW", "number": 10, "club": "Al Hilal", "market_value_eur": 4000000},
+      {"name": "Firas Al Buraikan", "position": "FW", "number": 11, "club": "Al Ahli", "market_value_eur": 3000000},
+      {"name": "Mohammed Al Oways", "position": "GK", "number": 1, "club": "Al Hilal", "market_value_eur": 2000000},
+      {"name": "Ali Al Bulaihi", "position": "DF", "number": 4, "club": "Al Hilal", "market_value_eur": 2500000},
+      {"name": "Mohamed Kanno", "position": "MF", "number": 8, "club": "Al Hilal", "market_value_eur": 3000000}
+    ]
+  },
+  {
+    "id": "ger", "name": "Germany", "name_zh": "德国", "code": "GER", "fifa_rank": 8, "elo_rating": 1892,
+    "flag_emoji": "\ud83c\udde9\ud83c\uddea", "group": "G", "attack_strength": 1.70, "defense_strength": 0.92,
+    "avg_goals_scored": 2.15, "avg_goals_conceded": 0.82,
+    "form": [1, 0.5, 1, 1, 0, 1, 0.5, 1, 1, 0.5],
+    "market_value_eur": 950000000,
+    "squad": [
+      {"name": "Jamal Musiala", "position": "MF", "number": 14, "club": "Bayern Munich", "market_value_eur": 120000000},
+      {"name": "Florian Wirtz", "position": "MF", "number": 10, "club": "Bayer Leverkusen", "market_value_eur": 110000000},
+      {"name": "Kai Havertz", "position": "FW", "number": 7, "club": "Arsenal", "market_value_eur": 70000000},
+      {"name": "Antonio Rudiger", "position": "DF", "number": 2, "club": "Real Madrid", "market_value_eur": 40000000},
+      {"name": "Manuel Neuer", "position": "GK", "number": 1, "club": "Bayern Munich", "market_value_eur": 8000000}
+    ]
+  },
+  {
+    "id": "ned", "name": "Netherlands", "name_zh": "荷兰", "code": "NED", "fifa_rank": 7, "elo_rating": 1918,
+    "flag_emoji": "\ud83c\uddf3\ud83c\uddf1", "group": "G", "attack_strength": 1.65, "defense_strength": 0.95,
+    "avg_goals_scored": 2.05, "avg_goals_conceded": 0.85,
+    "form": [0.5, 1, 1, 0.5, 1, 0, 1, 0.5, 1, 1],
+    "market_value_eur": 850000000,
+    "squad": [
+      {"name": "Virgil van Dijk", "position": "DF", "number": 4, "club": "Liverpool", "market_value_eur": 40000000},
+      {"name": "Frenkie de Jong", "position": "MF", "number": 21, "club": "Barcelona", "market_value_eur": 70000000},
+      {"name": "Cody Gakpo", "position": "FW", "number": 11, "club": "Liverpool", "market_value_eur": 65000000},
+      {"name": "Memphis Depay", "position": "FW", "number": 10, "club": "Corinthians", "market_value_eur": 12000000},
+      {"name": "Bart Verbruggen", "position": "GK", "number": 1, "club": "Brighton", "market_value_eur": 20000000}
+    ]
+  },
+  {
+    "id": "civ", "name": "Ivory Coast", "name_zh": "科特迪瓦", "code": "CIV", "fifa_rank": 37, "elo_rating": 1588,
+    "flag_emoji": "\ud83c\udde8\ud83c\uddee", "group": "G", "attack_strength": 1.10, "defense_strength": 1.15,
+    "avg_goals_scored": 1.35, "avg_goals_conceded": 1.05,
+    "form": [1, 0.5, 0, 1, 0.5, 1, 0, 0.5, 1, 0.5],
+    "market_value_eur": 210000000,
+    "squad": [
+      {"name": "Nicolas Pepe", "position": "FW", "number": 19, "club": "Villarreal", "market_value_eur": 12000000},
+      {"name": "Franck Kessie", "position": "MF", "number": 8, "club": "Al Ahli", "market_value_eur": 18000000},
+      {"name": "Seko Fofana", "position": "MF", "number": 11, "club": "Al Ettifaq", "market_value_eur": 15000000},
+      {"name": "Yahia Fofana", "position": "GK", "number": 1, "club": "Stade Reims", "market_value_eur": 5000000},
+      {"name": "Evan N'Dicka", "position": "DF", "number": 2, "club": "Eintracht Frankfurt", "market_value_eur": 20000000}
+    ]
+  },
+  {
+    "id": "crc", "name": "Costa Rica", "name_zh": "哥斯达黎加", "code": "CRC", "fifa_rank": 49, "elo_rating": 1558,
+    "flag_emoji": "\ud83c\udde8\ud83c\uddf7", "group": "G", "attack_strength": 0.75, "defense_strength": 1.30,
+    "avg_goals_scored": 0.90, "avg_goals_conceded": 1.30,
+    "form": [0, 0.5, 0, 0, 0.5, 0, 0, 0.5, 0, 0],
+    "market_value_eur": 22000000,
+    "squad": [
+      {"name": "Keylor Navas", "position": "GK", "number": 1, "club": "New England Revolution", "market_value_eur": 4000000},
+      {"name": "Bryan Ruiz", "position": "MF", "number": 10, "club": "Alajuelense", "market_value_eur": 1000000},
+      {"name": "Joel Campbell", "position": "FW", "number": 7, "club": "Leon", "market_value_eur": 2000000},
+      {"name": "Francisco Calvo", "position": "DF", "number": 3, "club": "Saprissa", "market_value_eur": 800000},
+      {"name": "Celso Borges", "position": "MF", "number": 5, "club": "Alajuelense", "market_value_eur": 500000}
+    ]
+  },
+  {
+    "id": "esp", "name": "Spain", "name_zh": "西班牙", "code": "ESP", "fifa_rank": 3, "elo_rating": 2025,
+    "flag_emoji": "\ud83c\uddea\ud83c\uddf8", "group": "H", "attack_strength": 1.85, "defense_strength": 0.82,
+    "avg_goals_scored": 2.35, "avg_goals_conceded": 0.72,
+    "form": [1, 1, 0.5, 1, 1, 1, 0.5, 1, 1, 0.5],
+    "market_value_eur": 1100000000,
+    "squad": [
+      {"name": "Rodri", "position": "MF", "number": 16, "club": "Manchester City", "market_value_eur": 110000000},
+      {"name": "Pedri", "position": "MF", "number": 9, "club": "Barcelona", "market_value_eur": 100000000},
+      {"name": "Lamine Yamal", "position": "FW", "number": 19, "club": "Barcelona", "market_value_eur": 120000000},
+      {"name": "Unai Simon", "position": "GK", "number": 23, "club": "Athletic Bilbao", "market_value_eur": 30000000},
+      {"name": "Alvaro Morata", "position": "FW", "number": 7, "club": "Atletico Madrid", "market_value_eur": 30000000}
+    ]
+  },
+  {
+    "id": "ita", "name": "Italy", "name_zh": "意大利", "code": "ITA", "fifa_rank": 10, "elo_rating": 1848,
+    "flag_emoji": "\ud83c\uddee\ud83c\uddf9", "group": "H", "attack_strength": 1.45, "defense_strength": 0.88,
+    "avg_goals_scored": 1.75, "avg_goals_conceded": 0.78,
+    "form": [0.5, 1, 0.5, 1, 0, 1, 0.5, 0.5, 1, 0.5],
+    "market_value_eur": 780000000,
+    "squad": [
+      {"name": "Lautaro Martinez", "position": "FW", "number": 10, "club": "Inter Milan", "market_value_eur": 95000000},
+      {"name": "Nicolo Barella", "position": "MF", "number": 18, "club": "Inter Milan", "market_value_eur": 75000000},
+      {"name": "Gianluigi Donnarumma", "position": "GK", "number": 1, "club": "Paris Saint-Germain", "market_value_eur": 40000000},
+      {"name": "Federico Chiesa", "position": "FW", "number": 14, "club": "Liverpool", "market_value_eur": 40000000},
+      {"name": "Alessandro Bastoni", "position": "DF", "number": 23, "club": "Inter Milan", "market_value_eur": 70000000}
+    ]
+  },
+  {
+    "id": "mar", "name": "Morocco", "name_zh": "摩洛哥", "code": "MAR", "fifa_rank": 14, "elo_rating": 1772,
+    "flag_emoji": "\ud83c\uddf2\ud83c\udde6", "group": "H", "attack_strength": 1.30, "defense_strength": 0.95,
+    "avg_goals_scored": 1.60, "avg_goals_conceded": 0.85,
+    "form": [1, 0.5, 1, 0, 1, 0.5, 1, 1, 0.5, 0.5],
+    "market_value_eur": 350000000,
+    "squad": [
+      {"name": "Achraf Hakimi", "position": "DF", "number": 2, "club": "Paris Saint-Germain", "market_value_eur": 70000000},
+      {"name": "Hakim Ziyech", "position": "MF", "number": 7, "club": "Galatasaray", "market_value_eur": 18000000},
+      {"name": "Youssef En-Nesyri", "position": "FW", "number": 9, "club": "Fenerbahce", "market_value_eur": 15000000},
+      {"name": "Yassine Bounou", "position": "GK", "number": 1, "club": "Al Hilal", "market_value_eur": 10000000},
+      {"name": "Sofyan Amrabat", "position": "DF", "number": 6, "club": "Feyenoord", "market_value_eur": 15000000}
+    ]
+  },
+  {
+    "id": "qat", "name": "Qatar", "name_zh": "卡塔尔", "code": "QAT", "fifa_rank": 43, "elo_rating": 1578,
+    "flag_emoji": "\ud83c\uddf6\ud83c\udde6", "group": "H", "attack_strength": 0.85, "defense_strength": 1.35,
+    "avg_goals_scored": 1.05, "avg_goals_conceded": 1.35,
+    "form": [0.5, 0, 0.5, 1, 0, 0.5, 0, 0.5, 0, 0.5],
+    "market_value_eur": 25000000,
+    "squad": [
+      {"name": "Akram Afif", "position": "FW", "number": 19, "club": "Al Sadd", "market_value_eur": 5000000},
+      {"name": "Almoez Ali", "position": "FW", "number": 10, "club": "Al Duhail", "market_value_eur": 3000000},
+      {"name": "Meshaal Barsham", "position": "GK", "number": 1, "club": "Al Sadd", "market_value_eur": 1500000},
+      {"name": "Abdelkarim Hassan", "position": "DF", "number": 3, "club": "Al Sadd", "market_value_eur": 2000000},
+      {"name": "Hassan Al Haydos", "position": "MF", "number": 12, "club": "Al Sadd", "market_value_eur": 1500000}
+    ]
+  },
+  {
+    "id": "bel", "name": "Belgium", "name_zh": "比利时", "code": "BEL", "fifa_rank": 11, "elo_rating": 1828,
+    "flag_emoji": "\ud83c\udde7\ud83c\uddea", "group": "I", "attack_strength": 1.50, "defense_strength": 1.05,
+    "avg_goals_scored": 1.85, "avg_goals_conceded": 0.95,
+    "form": [0.5, 1, 0.5, 0, 1, 0.5, 1, 0, 0.5, 1],
+    "market_value_eur": 550000000,
+    "squad": [
+      {"name": "Kevin De Bruyne", "position": "MF", "number": 17, "club": "Manchester City", "market_value_eur": 45000000},
+      {"name": "Romelu Lukaku", "position": "FW", "number": 9, "club": "Al Ettifaq", "market_value_eur": 12000000},
+      {"name": "Jeremy Doku", "position": "FW", "number": 11, "club": "Manchester City", "market_value_eur": 65000000},
+      {"name": "Thibaut Courtois", "position": "GK", "number": 1, "club": "Real Madrid", "market_value_eur": 35000000},
+      {"name": "Amadou Onana", "position": "MF", "number": 18, "club": "Everton", "market_value_eur": 35000000}
+    ]
+  },
+  {
+    "id": "egy", "name": "Egypt", "name_zh": "埃及", "code": "EGY", "fifa_rank": 33, "elo_rating": 1612,
+    "flag_emoji": "\ud83c\uddea\ud83c\uddec", "group": "I", "attack_strength": 1.15, "defense_strength": 1.15,
+    "avg_goals_scored": 1.40, "avg_goals_conceded": 1.05,
+    "form": [0.5, 1, 0, 0.5, 1, 0, 0.5, 1, 0, 0.5],
+    "market_value_eur": 85000000,
+    "squad": [
+      {"name": "Mohamed Salah", "position": "FW", "number": 10, "club": "Liverpool", "market_value_eur": 65000000},
+      {"name": "Omar Marmoush", "position": "FW", "number": 11, "club": "Eintracht Frankfurt", "market_value_eur": 25000000},
+      {"name": "Mohamed El Shenawy", "position": "GK", "number": 1, "club": "Al Ahly", "market_value_eur": 2000000},
+      {"name": "Mohammed Abdel Monem", "position": "DF", "number": 4, "club": "Al Ahly", "market_value_eur": 4000000},
+      {"name": "Mohamed Elneny", "position": "MF", "number": 8, "club": "Al Ahly", "market_value_eur": 3000000}
+    ]
+  },
+  {
+    "id": "irn", "name": "Iran", "name_zh": "伊朗", "code": "IRN", "fifa_rank": 20, "elo_rating": 1698,
+    "flag_emoji": "\ud83c\uddee\ud83c\uddf7", "group": "I", "attack_strength": 1.10, "defense_strength": 1.10,
+    "avg_goals_scored": 1.35, "avg_goals_conceded": 1.00,
+    "form": [1, 0.5, 0, 1, 0.5, 1, 0, 0.5, 1, 0.5],
+    "market_value_eur": 55000000,
+    "squad": [
+      {"name": "Mehdi Taremi", "position": "FW", "number": 9, "club": "Inter Milan", "market_value_eur": 15000000},
+      {"name": "Sardar Azmoun", "position": "FW", "number": 10, "club": "Shabab Al Ahli", "market_value_eur": 5000000},
+      {"name": "Alireza Beiranvand", "position": "GK", "number": 1, "club": "Persepolis", "market_value_eur": 1500000},
+      {"name": "Mohammad Kanaani", "position": "DF", "number": 4, "club": "Esteghlal", "market_value_eur": 1000000},
+      {"name": "Saeid Ezatolahi", "position": "MF", "number": 6, "club": "Al Sadd", "market_value_eur": 2000000}
+    ]
+  },
+  {
+    "id": "rsa", "name": "South Africa", "name_zh": "南非", "code": "RSA", "fifa_rank": 60, "elo_rating": 1528,
+    "flag_emoji": "\ud83c\uddff\ud83c\udde6", "group": "I", "attack_strength": 0.80, "defense_strength": 1.30,
+    "avg_goals_scored": 0.95, "avg_goals_conceded": 1.30,
+    "form": [0, 0.5, 0, 0, 0.5, 0, 0, 0.5, 0, 0],
+    "market_value_eur": 25000000,
+    "squad": [
+      {"name": "Percy Tau", "position": "FW", "number": 10, "club": "Al Ahly", "market_value_eur": 3000000},
+      {"name": "Themba Zwane", "position": "MF", "number": 7, "club": "Mamelodi Sundowns", "market_value_eur": 2000000},
+      {"name": "Ronwen Williams", "position": "GK", "number": 1, "club": "SuperSport United", "market_value_eur": 1000000},
+      {"name": "Siphiwe Tshabalala", "position": "DF", "number": 3, "club": "Kaizer Chiefs", "market_value_eur": 800000},
+      {"name": "Evidence Makgopa", "position": "FW", "number": 9, "club": "Orlando Pirates", "market_value_eur": 1500000}
+    ]
+  },
+  {
+    "id": "sen", "name": "Senegal", "name_zh": "塞内加尔", "code": "SEN", "fifa_rank": 21, "elo_rating": 1692,
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddf3", "group": "J", "attack_strength": 1.25, "defense_strength": 1.05,
+    "avg_goals_scored": 1.55, "avg_goals_conceded": 0.95,
+    "form": [1, 0.5, 0, 1, 0.5, 1, 0, 0.5, 1, 0.5],
+    "market_value_eur": 280000000,
+    "squad": [
+      {"name": "Sadio Mane", "position": "FW", "number": 10, "club": "Al Nassr", "market_value_eur": 20000000},
+      {"name": "Edouard Mendy", "position": "GK", "number": 16, "club": "Al Ahli", "market_value_eur": 12000000},
+      {"name": "Kalidou Koulibaly", "position": "DF", "number": 3, "club": "Al Hilal", "market_value_eur": 10000000},
+      {"name": "Ismaila Sarr", "position": "FW", "number": 18, "club": "Crystal Palace", "market_value_eur": 18000000},
+      {"name": "Idrissa Gueye", "position": "MF", "number": 5, "club": "Everton", "market_value_eur": 8000000}
+    ]
+  },
+  {
+    "id": "nor", "name": "Norway", "name_zh": "挪威", "code": "NOR", "fifa_rank": 42, "elo_rating": 1588,
+    "flag_emoji": "\ud83c\uddf3\ud83c\uddf4", "group": "J", "attack_strength": 1.25, "defense_strength": 1.20,
+    "avg_goals_scored": 1.60, "avg_goals_conceded": 1.15,
+    "form": [0.5, 1, 0, 1, 0.5, 0, 1, 0.5, 0, 1],
+    "market_value_eur": 220000000,
+    "squad": [
+      {"name": "Erling Haaland", "position": "FW", "number": 9, "club": "Manchester City", "market_value_eur": 180000000},
+      {"name": "Martin Odegaard", "position": "MF", "number": 10, "club": "Arsenal", "market_value_eur": 100000000},
+      {"name": "Alexander Sorloth", "position": "FW", "number": 7, "club": "Atletico Madrid", "market_value_eur": 30000000},
+      {"name": "Sander Berge", "position": "MF", "number": 8, "club": "FC Copenhagen", "market_value_eur": 8000000},
+      {"name": "Orjan Nyland", "position": "GK", "number": 1, "club": "RB Leipzig", "market_value_eur": 3000000}
+    ]
+  },
+  {
+    "id": "pol", "name": "Poland", "name_zh": "波兰", "code": "POL", "fifa_rank": 29, "elo_rating": 1648,
+    "flag_emoji": "\ud83c\uddf5\ud83c\uddf1", "group": "J", "attack_strength": 1.20, "defense_strength": 1.15,
+    "avg_goals_scored": 1.45, "avg_goals_conceded": 1.10,
+    "form": [0.5, 0, 1, 0.5, 0, 1, 0.5, 0, 0.5, 0],
+    "market_value_eur": 180000000,
+    "squad": [
+      {"name": "Robert Lewandowski", "position": "FW", "number": 9, "club": "Barcelona", "market_value_eur": 30000000},
+      {"name": "Piotr Zielinski", "position": "MF", "number": 10, "club": "Inter Milan", "market_value_eur": 35000000},
+      {"name": "Wojciech Szczesny", "position": "GK", "number": 1, "club": "Juventus", "market_value_eur": 8000000},
+      {"name": "Jakub Moder", "position": "MF", "number": 15, "club": "Brighton", "market_value_eur": 12000000},
+      {"name": "Jan Bednarek", "position": "DF", "number": 5, "club": "Southampton", "market_value_eur": 10000000}
+    ]
+  },
+  {
+    "id": "per", "name": "Peru", "name_zh": "秘鲁", "code": "PER", "fifa_rank": 52, "elo_rating": 1558,
+    "flag_emoji": "\ud83c\uddf5\ud83c\uddea", "group": "J", "attack_strength": 0.85, "defense_strength": 1.25,
+    "avg_goals_scored": 1.00, "avg_goals_conceded": 1.20,
+    "form": [0, 0.5, 0, 0, 0.5, 0, 0, 0.5, 0, 0],
+    "market_value_eur": 45000000,
+    "squad": [
+      {"name": "Andre Carrillo", "position": "FW", "number": 18, "club": "Al Qadsiah", "market_value_eur": 3000000},
+      {"name": "Christian Cueva", "position": "MF", "number": 10, "club": "Alianza Lima", "market_value_eur": 1500000},
+      {"name": "Pedro Gallese", "position": "GK", "number": 1, "club": "Orlando City", "market_value_eur": 2000000},
+      {"name": "Luis Advincula", "position": "DF", "number": 3, "club": "Boca Juniors", "market_value_eur": 3000000},
+      {"name": "Gianluca Lapadula", "position": "FW", "number": 9, "club": "Cagliari", "market_value_eur": 4000000}
+    ]
+  },
+  {
+    "id": "den", "name": "Denmark", "name_zh": "丹麦", "code": "DEN", "fifa_rank": 18, "elo_rating": 1728,
+    "flag_emoji": "\ud83c\udde9\ud83c\uddf0", "group": "K", "attack_strength": 1.30, "defense_strength": 1.00,
+    "avg_goals_scored": 1.65, "avg_goals_conceded": 0.95,
+    "form": [0.5, 1, 0.5, 1, 0, 0.5, 1, 0.5, 1, 0.5],
+    "market_value_eur": 380000000,
+    "squad": [
+      {"name": "Rasmus Hojlund", "position": "FW", "number": 11, "club": "Manchester United", "market_value_eur": 55000000},
+      {"name": "Christian Eriksen", "position": "MF", "number": 10, "club": "Manchester United", "market_value_eur": 15000000},
+      {"name": "Pierre-Emile Hojbjerg", "position": "MF", "number": 8, "club": "Tottenham Hotspur", "market_value_eur": 30000000},
+      {"name": "Kasper Schmeichel", "position": "GK", "number": 1, "club": "Anderlecht", "market_value_eur": 3000000},
+      {"name": "Andreas Christensen", "position": "DF", "number": 6, "club": "Barcelona", "market_value_eur": 30000000}
+    ]
+  },
+  {
+    "id": "aut", "name": "Austria", "name_zh": "奥地利", "code": "AUT", "fifa_rank": 25, "elo_rating": 1668,
+    "flag_emoji": "\ud83c\udde6\ud83c\uddf9", "group": "K", "attack_strength": 1.25, "defense_strength": 1.10,
+    "avg_goals_scored": 1.55, "avg_goals_conceded": 1.05,
+    "form": [1, 0.5, 1, 0, 0.5, 1, 0, 1, 0.5, 0.5],
+    "market_value_eur": 280000000,
+    "squad": [
+      {"name": "David Alaba", "position": "DF", "number": 3, "club": "Real Madrid", "market_value_eur": 30000000},
+      {"name": "Marcel Sabitzer", "position": "MF", "number": 8, "club": "Borussia Dortmund", "market_value_eur": 28000000},
+      {"name": "Konrad Laimer", "position": "MF", "number": 6, "club": "Bayern Munich", "market_value_eur": 40000000},
+      {"name": "Markus Schmid", "position": "GK", "number": 1, "club": "Rapid Wien", "market_value_eur": 2000000},
+      {"name": "Christoph Baumgartner", "position": "FW", "number": 11, "club": "RB Leipzig", "market_value_eur": 30000000}
+    ]
+  },
+  {
+    "id": "ecu", "name": "Ecuador", "name_zh": "厄瓜多尔", "code": "ECU", "fifa_rank": 30, "elo_rating": 1638,
+    "flag_emoji": "\ud83c\uddea\ud83c\udde8", "group": "K", "attack_strength": 1.15, "defense_strength": 1.15,
+    "avg_goals_scored": 1.40, "avg_goals_conceded": 1.05,
+    "form": [0.5, 1, 0, 0.5, 1, 0, 0.5, 0, 1, 0.5],
+    "market_value_eur": 190000000,
+    "squad": [
+      {"name": "Moises Caicedo", "position": "MF", "number": 20, "club": "Chelsea", "market_value_eur": 65000000},
+      {"name": "Enner Valencia", "position": "FW", "number": 13, "club": "Sao Paulo", "market_value_eur": 5000000},
+      {"name": "Piero Hincapie", "position": "DF", "number": 3, "club": "Bayer Leverkusen", "market_value_eur": 40000000},
+      {"name": "Alexander Dominguez", "position": "GK", "number": 1, "club": "LDU Quito", "market_value_eur": 1500000},
+      {"name": "Gonzalo Plata", "position": "FW", "number": 10, "club": "Real Valladolid", "market_value_eur": 8000000}
+    ]
+  },
+  {
+    "id": "jam", "name": "Jamaica", "name_zh": "牙买加", "code": "JAM", "fifa_rank": 63, "elo_rating": 1518,
+    "flag_emoji": "\ud83c\uddef\ud83c\uddf2", "group": "K", "attack_strength": 0.75, "defense_strength": 1.35,
+    "avg_goals_scored": 0.85, "avg_goals_conceded": 1.40,
+    "form": [0, 0, 0.5, 0, 0, 0.5, 0, 0, 0, 0.5],
+    "market_value_eur": 20000000,
+    "squad": [
+      {"name": "Michail Antonio", "position": "FW", "number": 9, "club": "West Ham United", "market_value_eur": 10000000},
+      {"name": "Bobby Decordova-Reid", "position": "FW", "number": 11, "club": "Cardiff City", "market_value_eur": 3000000},
+      {"name": "Andre Blake", "position": "GK", "number": 1, "club": "Philadelphia Union", "market_value_eur": 1500000},
+      {"name": "Ethan Pinnock", "position": "DF", "number": 5, "club": "Brentford", "market_value_eur": 18000000},
+      {"name": "Leon Bailey", "position": "FW", "number": 7, "club": "Aston Villa", "market_value_eur": 25000000}
+    ]
+  },
+  {
+    "id": "tur", "name": "Turkey", "name_zh": "土耳其", "code": "TUR", "fifa_rank": 27, "elo_rating": 1658,
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddf7", "group": "L", "attack_strength": 1.30, "defense_strength": 1.15,
+    "avg_goals_scored": 1.60, "avg_goals_conceded": 1.10,
+    "form": [1, 0.5, 0, 1, 0.5, 1, 0, 0.5, 1, 0.5],
+    "market_value_eur": 320000000,
+    "squad": [
+      {"name": "Hakan Calhanoglu", "position": "MF", "number": 10, "club": "Inter Milan", "market_value_eur": 55000000},
+      {"name": "Arda Guler", "position": "MF", "number": 17, "club": "Real Madrid", "market_value_eur": 40000000},
+      {"name": "Kenan Yildiz", "position": "FW", "number": 7, "club": "Juventus", "market_value_eur": 30000000},
+      {"name": "Mert Gunok", "position": "GK", "number": 1, "club": "Besiktas", "market_value_eur": 3000000},
+      {"name": "Merih Demiral", "position": "DF", "number": 4, "club": "Al Ahli", "market_value_eur": 15000000}
+    ]
+  },
+  {
+    "id": "pan", "name": "Panama", "name_zh": "巴拿马", "code": "PAN", "fifa_rank": 48, "elo_rating": 1562,
+    "flag_emoji": "\ud83c\uddf5\ud83c\udde6", "group": "L", "attack_strength": 0.80, "defense_strength": 1.35,
+    "avg_goals_scored": 0.95, "avg_goals_conceded": 1.35,
+    "form": [0, 0.5, 0, 0, 0.5, 0, 0, 0.5, 0, 0],
+    "market_value_eur": 18000000,
+    "squad": [
+      {"name": "Eric Davis", "position": "DF", "number": 3, "club": "FC Andorra", "market_value_eur": 1500000},
+      {"name": "Cesar Blackman", "position": "MF", "number": 10, "club": "Rapid Wien", "market_value_eur": 3000000},
+      {"name": "Jose Calderon", "position": "GK", "number": 1, "club": "Tauro FC", "market_value_eur": 400000},
+      {"name": "Fidel Escobar", "position": "DF", "number": 4, "club": "New York Red Bulls", "market_value_eur": 2000000},
+      {"name": "Yoel Barcenas", "position": "MF", "number": 8, "club": "Mazatlan", "market_value_eur": 1500000}
+    ]
+  },
+  {
+    "id": "uzb", "name": "Uzbekistan", "name_zh": "乌兹别克斯坦", "code": "UZB", "fifa_rank": 62, "elo_rating": 1522,
+    "flag_emoji": "\ud83c\uddfa\ud83c\uddff", "group": "L", "attack_strength": 0.80, "defense_strength": 1.30,
+    "avg_goals_scored": 0.95, "avg_goals_conceded": 1.30,
+    "form": [0.5, 0, 0.5, 1, 0, 0.5, 0, 0.5, 0, 0.5],
+    "market_value_eur": 22000000,
+    "squad": [
+      {"name": "Eldor Shomurodov", "position": "FW", "number": 9, "club": "Roma", "market_value_eur": 8000000},
+      {"name": "Azizbek Turgunboev", "position": "MF", "number": 10, "club": "Pakhtakor", "market_value_eur": 1200000},
+      {"name": "Utkir Yusupov", "position": "GK", "number": 1, "club": "Nasaf Qarshi", "market_value_eur": 600000},
+      {"name": "Rustam Ashurmatov", "position": "DF", "number": 5, "club": "Gaziantep FK", "market_value_eur": 2000000},
+      {"name": "Jaloliddinov Masharipov", "position": "FW", "number": 11, "club": "Pakhtakor", "market_value_eur": 1500000}
+    ]
+  },
+  {
+    "id": "chl", "name": "Chile", "name_zh": "智利", "code": "CHI", "fifa_rank": 35, "elo_rating": 1608,
+    "flag_emoji": "\ud83c\udde8\ud83c\uddf1", "group": "L", "attack_strength": 1.10, "defense_strength": 1.20,
+    "avg_goals_scored": 1.30, "avg_goals_conceded": 1.15,
+    "form": [0, 0.5, 0, 0.5, 0, 1, 0, 0.5, 0, 0.5],
+    "market_value_eur": 150000000,
+    "squad": [
+      {"name": "Alexis Sanchez", "position": "FW", "number": 7, "club": "Inter Milan", "market_value_eur": 5000000},
+      {"name": "Arturo Vidal", "position": "MF", "number": 8, "club": "Athletico Paranaense", "market_value_eur": 3000000},
+      {"name": "Claudio Bravo", "position": "GK", "number": 1, "club": "Real Betis", "market_value_eur": 2000000},
+      {"name": "Gary Medel", "position": "DF", "number": 17, "club": "Bologna", "market_value_eur": 3000000},
+      {"name": "Charles Aranguiz", "position": "MF", "number": 20, "club": "Internacional", "market_value_eur": 4000000}
+    ]
+  }
+]

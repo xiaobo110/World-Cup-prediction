@@ -1,0 +1,938 @@
+[
+  {
+    "id": "match_001",
+    "home_team_id": "usa",
+    "away_team_id": "nzl",
+    "datetime": "2026-06-11T17:00:00Z",
+    "stage": "group",
+    "group": "A",
+    "venue": "MetLife Stadium, New York"
+  },
+  {
+    "id": "match_002",
+    "home_team_id": "mex",
+    "away_team_id": "kor",
+    "datetime": "2026-06-11T20:00:00Z",
+    "stage": "group",
+    "group": "A",
+    "venue": "AT&T Stadium, Dallas"
+  },
+  {
+    "id": "match_003",
+    "home_team_id": "usa",
+    "away_team_id": "kor",
+    "datetime": "2026-06-15T14:00:00Z",
+    "stage": "group",
+    "group": "A",
+    "venue": "MetLife Stadium, New York"
+  },
+  {
+    "id": "match_004",
+    "home_team_id": "nzl",
+    "away_team_id": "mex",
+    "datetime": "2026-06-15T17:00:00Z",
+    "stage": "group",
+    "group": "A",
+    "venue": "AT&T Stadium, Dallas"
+  },
+  {
+    "id": "match_005",
+    "home_team_id": "usa",
+    "away_team_id": "mex",
+    "datetime": "2026-06-19T20:00:00Z",
+    "stage": "group",
+    "group": "A",
+    "venue": "MetLife Stadium, New York"
+  },
+  {
+    "id": "match_006",
+    "home_team_id": "kor",
+    "away_team_id": "nzl",
+    "datetime": "2026-06-19T20:00:00Z",
+    "stage": "group",
+    "group": "A",
+    "venue": "AT&T Stadium, Dallas"
+  },
+  {
+    "id": "match_007",
+    "home_team_id": "arg",
+    "away_team_id": "bol",
+    "datetime": "2026-06-12T17:00:00Z",
+    "stage": "group",
+    "group": "B",
+    "venue": "AT&T Park, San Francisco"
+  },
+  {
+    "id": "match_008",
+    "home_team_id": "aus",
+    "away_team_id": "tun",
+    "datetime": "2026-06-12T20:00:00Z",
+    "stage": "group",
+    "group": "B",
+    "venue": "Lincoln Financial Field, Philadelphia"
+  },
+  {
+    "id": "match_009",
+    "home_team_id": "arg",
+    "away_team_id": "tun",
+    "datetime": "2026-06-16T14:00:00Z",
+    "stage": "group",
+    "group": "B",
+    "venue": "AT&T Park, San Francisco"
+  },
+  {
+    "id": "match_010",
+    "home_team_id": "bol",
+    "away_team_id": "aus",
+    "datetime": "2026-06-16T17:00:00Z",
+    "stage": "group",
+    "group": "B",
+    "venue": "Lincoln Financial Field, Philadelphia"
+  },
+  {
+    "id": "match_011",
+    "home_team_id": "arg",
+    "away_team_id": "aus",
+    "datetime": "2026-06-20T20:00:00Z",
+    "stage": "group",
+    "group": "B",
+    "venue": "AT&T Park, San Francisco"
+  },
+  {
+    "id": "match_012",
+    "home_team_id": "tun",
+    "away_team_id": "bol",
+    "datetime": "2026-06-20T20:00:00Z",
+    "stage": "group",
+    "group": "B",
+    "venue": "Lincoln Financial Field, Philadelphia"
+  },
+  {
+    "id": "match_013",
+    "home_team_id": "fra",
+    "away_team_id": "par",
+    "datetime": "2026-06-13T17:00:00Z",
+    "stage": "group",
+    "group": "C",
+    "venue": "SoFi Stadium, Los Angeles"
+  },
+  {
+    "id": "match_014",
+    "home_team_id": "col",
+    "away_team_id": "jpn",
+    "datetime": "2026-06-13T20:00:00Z",
+    "stage": "group",
+    "group": "C",
+    "venue": "Hard Rock Stadium, Miami"
+  },
+  {
+    "id": "match_015",
+    "home_team_id": "fra",
+    "away_team_id": "jpn",
+    "datetime": "2026-06-17T14:00:00Z",
+    "stage": "group",
+    "group": "C",
+    "venue": "SoFi Stadium, Los Angeles"
+  },
+  {
+    "id": "match_016",
+    "home_team_id": "par",
+    "away_team_id": "col",
+    "datetime": "2026-06-17T17:00:00Z",
+    "stage": "group",
+    "group": "C",
+    "venue": "Hard Rock Stadium, Miami"
+  },
+  {
+    "id": "match_017",
+    "home_team_id": "fra",
+    "away_team_id": "col",
+    "datetime": "2026-06-21T20:00:00Z",
+    "stage": "group",
+    "group": "C",
+    "venue": "SoFi Stadium, Los Angeles"
+  },
+  {
+    "id": "match_018",
+    "home_team_id": "jpn",
+    "away_team_id": "par",
+    "datetime": "2026-06-21T20:00:00Z",
+    "stage": "group",
+    "group": "C",
+    "venue": "Hard Rock Stadium, Miami"
+  },
+  {
+    "id": "match_019",
+    "home_team_id": "eng",
+    "away_team_id": "hon",
+    "datetime": "2026-06-14T17:00:00Z",
+    "stage": "group",
+    "group": "D",
+    "venue": "Lumen Field, Seattle"
+  },
+  {
+    "id": "match_020",
+    "home_team_id": "cro",
+    "away_team_id": "gha",
+    "datetime": "2026-06-14T20:00:00Z",
+    "stage": "group",
+    "group": "D",
+    "venue": "Rose Bowl, Pasadena"
+  },
+  {
+    "id": "match_021",
+    "home_team_id": "eng",
+    "away_team_id": "gha",
+    "datetime": "2026-06-18T14:00:00Z",
+    "stage": "group",
+    "group": "D",
+    "venue": "Lumen Field, Seattle"
+  },
+  {
+    "id": "match_022",
+    "home_team_id": "hon",
+    "away_team_id": "cro",
+    "datetime": "2026-06-18T17:00:00Z",
+    "stage": "group",
+    "group": "D",
+    "venue": "Rose Bowl, Pasadena"
+  },
+  {
+    "id": "match_023",
+    "home_team_id": "eng",
+    "away_team_id": "cro",
+    "datetime": "2026-06-22T20:00:00Z",
+    "stage": "group",
+    "group": "D",
+    "venue": "Lumen Field, Seattle"
+  },
+  {
+    "id": "match_024",
+    "home_team_id": "gha",
+    "away_team_id": "hon",
+    "datetime": "2026-06-22T20:00:00Z",
+    "stage": "group",
+    "group": "D",
+    "venue": "Rose Bowl, Pasadena"
+  },
+  {
+    "id": "match_025",
+    "home_team_id": "bra",
+    "away_team_id": "cmr",
+    "datetime": "2026-06-15T17:00:00Z",
+    "stage": "group",
+    "group": "E",
+    "venue": "NRG Stadium, Houston"
+  },
+  {
+    "id": "match_026",
+    "home_team_id": "sui",
+    "away_team_id": "srb",
+    "datetime": "2026-06-15T20:00:00Z",
+    "stage": "group",
+    "group": "E",
+    "venue": "Mercedes-Benz Stadium, Atlanta"
+  },
+  {
+    "id": "match_027",
+    "home_team_id": "bra",
+    "away_team_id": "srb",
+    "datetime": "2026-06-19T14:00:00Z",
+    "stage": "group",
+    "group": "E",
+    "venue": "NRG Stadium, Houston"
+  },
+  {
+    "id": "match_028",
+    "home_team_id": "cmr",
+    "away_team_id": "sui",
+    "datetime": "2026-06-19T17:00:00Z",
+    "stage": "group",
+    "group": "E",
+    "venue": "Mercedes-Benz Stadium, Atlanta"
+  },
+  {
+    "id": "match_029",
+    "home_team_id": "bra",
+    "away_team_id": "sui",
+    "datetime": "2026-06-23T20:00:00Z",
+    "stage": "group",
+    "group": "E",
+    "venue": "NRG Stadium, Houston"
+  },
+  {
+    "id": "match_030",
+    "home_team_id": "srb",
+    "away_team_id": "cmr",
+    "datetime": "2026-06-23T20:00:00Z",
+    "stage": "group",
+    "group": "E",
+    "venue": "Mercedes-Benz Stadium, Atlanta"
+  },
+  {
+    "id": "match_031",
+    "home_team_id": "por",
+    "away_team_id": "ksa",
+    "datetime": "2026-06-16T17:00:00Z",
+    "stage": "group",
+    "group": "F",
+    "venue": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "match_032",
+    "home_team_id": "uru",
+    "away_team_id": "can",
+    "datetime": "2026-06-16T20:00:00Z",
+    "stage": "group",
+    "group": "F",
+    "venue": "Estadio BBVA, Monterrey"
+  },
+  {
+    "id": "match_033",
+    "home_team_id": "por",
+    "away_team_id": "can",
+    "datetime": "2026-06-20T14:00:00Z",
+    "stage": "group",
+    "group": "F",
+    "venue": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "match_034",
+    "home_team_id": "ksa",
+    "away_team_id": "uru",
+    "datetime": "2026-06-20T17:00:00Z",
+    "stage": "group",
+    "group": "F",
+    "venue": "Estadio BBVA, Monterrey"
+  },
+  {
+    "id": "match_035",
+    "home_team_id": "por",
+    "away_team_id": "uru",
+    "datetime": "2026-06-24T20:00:00Z",
+    "stage": "group",
+    "group": "F",
+    "venue": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "match_036",
+    "home_team_id": "can",
+    "away_team_id": "ksa",
+    "datetime": "2026-06-24T20:00:00Z",
+    "stage": "group",
+    "group": "F",
+    "venue": "Estadio BBVA, Monterrey"
+  },
+  {
+    "id": "match_037",
+    "home_team_id": "ger",
+    "away_team_id": "crc",
+    "datetime": "2026-06-17T17:00:00Z",
+    "stage": "group",
+    "group": "G",
+    "venue": "Estadio Akron, Guadalajara"
+  },
+  {
+    "id": "match_038",
+    "home_team_id": "ned",
+    "away_team_id": "civ",
+    "datetime": "2026-06-17T20:00:00Z",
+    "stage": "group",
+    "group": "G",
+    "venue": "BC Place, Vancouver"
+  },
+  {
+    "id": "match_039",
+    "home_team_id": "ger",
+    "away_team_id": "civ",
+    "datetime": "2026-06-21T14:00:00Z",
+    "stage": "group",
+    "group": "G",
+    "venue": "Estadio Akron, Guadalajara"
+  },
+  {
+    "id": "match_040",
+    "home_team_id": "crc",
+    "away_team_id": "ned",
+    "datetime": "2026-06-21T17:00:00Z",
+    "stage": "group",
+    "group": "G",
+    "venue": "BC Place, Vancouver"
+  },
+  {
+    "id": "match_041",
+    "home_team_id": "ger",
+    "away_team_id": "ned",
+    "datetime": "2026-06-25T20:00:00Z",
+    "stage": "group",
+    "group": "G",
+    "venue": "Estadio Akron, Guadalajara"
+  },
+  {
+    "id": "match_042",
+    "home_team_id": "civ",
+    "away_team_id": "crc",
+    "datetime": "2026-06-25T20:00:00Z",
+    "stage": "group",
+    "group": "G",
+    "venue": "BC Place, Vancouver"
+  },
+  {
+    "id": "match_043",
+    "home_team_id": "esp",
+    "away_team_id": "qat",
+    "datetime": "2026-06-18T17:00:00Z",
+    "stage": "group",
+    "group": "H",
+    "venue": "BMO Field, Toronto"
+  },
+  {
+    "id": "match_044",
+    "home_team_id": "ita",
+    "away_team_id": "mar",
+    "datetime": "2026-06-18T20:00:00Z",
+    "stage": "group",
+    "group": "H",
+    "venue": "Camping World Stadium, Orlando"
+  },
+  {
+    "id": "match_045",
+    "home_team_id": "esp",
+    "away_team_id": "mar",
+    "datetime": "2026-06-22T14:00:00Z",
+    "stage": "group",
+    "group": "H",
+    "venue": "BMO Field, Toronto"
+  },
+  {
+    "id": "match_046",
+    "home_team_id": "qat",
+    "away_team_id": "ita",
+    "datetime": "2026-06-22T17:00:00Z",
+    "stage": "group",
+    "group": "H",
+    "venue": "Camping World Stadium, Orlando"
+  },
+  {
+    "id": "match_047",
+    "home_team_id": "esp",
+    "away_team_id": "ita",
+    "datetime": "2026-06-26T20:00:00Z",
+    "stage": "group",
+    "group": "H",
+    "venue": "BMO Field, Toronto"
+  },
+  {
+    "id": "match_048",
+    "home_team_id": "mar",
+    "away_team_id": "qat",
+    "datetime": "2026-06-26T20:00:00Z",
+    "stage": "group",
+    "group": "H",
+    "venue": "Camping World Stadium, Orlando"
+  },
+  {
+    "id": "match_049",
+    "home_team_id": "bel",
+    "away_team_id": "rsa",
+    "datetime": "2026-06-19T17:00:00Z",
+    "stage": "group",
+    "group": "I",
+    "venue": "MetLife Stadium, New York"
+  },
+  {
+    "id": "match_050",
+    "home_team_id": "egy",
+    "away_team_id": "irn",
+    "datetime": "2026-06-19T20:00:00Z",
+    "stage": "group",
+    "group": "I",
+    "venue": "Lincoln Financial Field, Philadelphia"
+  },
+  {
+    "id": "match_051",
+    "home_team_id": "bel",
+    "away_team_id": "irn",
+    "datetime": "2026-06-23T14:00:00Z",
+    "stage": "group",
+    "group": "I",
+    "venue": "MetLife Stadium, New York"
+  },
+  {
+    "id": "match_052",
+    "home_team_id": "rsa",
+    "away_team_id": "egy",
+    "datetime": "2026-06-23T17:00:00Z",
+    "stage": "group",
+    "group": "I",
+    "venue": "Lincoln Financial Field, Philadelphia"
+  },
+  {
+    "id": "match_053",
+    "home_team_id": "bel",
+    "away_team_id": "egy",
+    "datetime": "2026-06-27T20:00:00Z",
+    "stage": "group",
+    "group": "I",
+    "venue": "MetLife Stadium, New York"
+  },
+  {
+    "id": "match_054",
+    "home_team_id": "irn",
+    "away_team_id": "rsa",
+    "datetime": "2026-06-27T20:00:00Z",
+    "stage": "group",
+    "group": "I",
+    "venue": "Lincoln Financial Field, Philadelphia"
+  },
+  {
+    "id": "match_055",
+    "home_team_id": "sen",
+    "away_team_id": "per",
+    "datetime": "2026-06-20T17:00:00Z",
+    "stage": "group",
+    "group": "J",
+    "venue": "AT&T Stadium, Dallas"
+  },
+  {
+    "id": "match_056",
+    "home_team_id": "nor",
+    "away_team_id": "pol",
+    "datetime": "2026-06-20T20:00:00Z",
+    "stage": "group",
+    "group": "J",
+    "venue": "Hard Rock Stadium, Miami"
+  },
+  {
+    "id": "match_057",
+    "home_team_id": "sen",
+    "away_team_id": "pol",
+    "datetime": "2026-06-24T14:00:00Z",
+    "stage": "group",
+    "group": "J",
+    "venue": "AT&T Stadium, Dallas"
+  },
+  {
+    "id": "match_058",
+    "home_team_id": "per",
+    "away_team_id": "nor",
+    "datetime": "2026-06-24T17:00:00Z",
+    "stage": "group",
+    "group": "J",
+    "venue": "Hard Rock Stadium, Miami"
+  },
+  {
+    "id": "match_059",
+    "home_team_id": "sen",
+    "away_team_id": "nor",
+    "datetime": "2026-06-28T20:00:00Z",
+    "stage": "group",
+    "group": "J",
+    "venue": "AT&T Stadium, Dallas"
+  },
+  {
+    "id": "match_060",
+    "home_team_id": "pol",
+    "away_team_id": "per",
+    "datetime": "2026-06-28T20:00:00Z",
+    "stage": "group",
+    "group": "J",
+    "venue": "Hard Rock Stadium, Miami"
+  },
+  {
+    "id": "match_061",
+    "home_team_id": "den",
+    "away_team_id": "jam",
+    "datetime": "2026-06-21T17:00:00Z",
+    "stage": "group",
+    "group": "K",
+    "venue": "NRG Stadium, Houston"
+  },
+  {
+    "id": "match_062",
+    "home_team_id": "aut",
+    "away_team_id": "ecu",
+    "datetime": "2026-06-21T20:00:00Z",
+    "stage": "group",
+    "group": "K",
+    "venue": "Lumen Field, Seattle"
+  },
+  {
+    "id": "match_063",
+    "home_team_id": "den",
+    "away_team_id": "ecu",
+    "datetime": "2026-06-25T14:00:00Z",
+    "stage": "group",
+    "group": "K",
+    "venue": "NRG Stadium, Houston"
+  },
+  {
+    "id": "match_064",
+    "home_team_id": "jam",
+    "away_team_id": "aut",
+    "datetime": "2026-06-25T17:00:00Z",
+    "stage": "group",
+    "group": "K",
+    "venue": "Lumen Field, Seattle"
+  },
+  {
+    "id": "match_065",
+    "home_team_id": "den",
+    "away_team_id": "aut",
+    "datetime": "2026-06-29T20:00:00Z",
+    "stage": "group",
+    "group": "K",
+    "venue": "NRG Stadium, Houston"
+  },
+  {
+    "id": "match_066",
+    "home_team_id": "ecu",
+    "away_team_id": "jam",
+    "datetime": "2026-06-29T20:00:00Z",
+    "stage": "group",
+    "group": "K",
+    "venue": "Lumen Field, Seattle"
+  },
+  {
+    "id": "match_067",
+    "home_team_id": "tur",
+    "away_team_id": "chl",
+    "datetime": "2026-06-22T17:00:00Z",
+    "stage": "group",
+    "group": "L",
+    "venue": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "match_068",
+    "home_team_id": "pan",
+    "away_team_id": "uzb",
+    "datetime": "2026-06-22T20:00:00Z",
+    "stage": "group",
+    "group": "L",
+    "venue": "SoFi Stadium, Los Angeles"
+  },
+  {
+    "id": "match_069",
+    "home_team_id": "tur",
+    "away_team_id": "uzb",
+    "datetime": "2026-06-26T14:00:00Z",
+    "stage": "group",
+    "group": "L",
+    "venue": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "match_070",
+    "home_team_id": "chl",
+    "away_team_id": "pan",
+    "datetime": "2026-06-26T17:00:00Z",
+    "stage": "group",
+    "group": "L",
+    "venue": "SoFi Stadium, Los Angeles"
+  },
+  {
+    "id": "match_071",
+    "home_team_id": "tur",
+    "away_team_id": "pan",
+    "datetime": "2026-06-30T20:00:00Z",
+    "stage": "group",
+    "group": "L",
+    "venue": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "match_072",
+    "home_team_id": "uzb",
+    "away_team_id": "chl",
+    "datetime": "2026-06-30T20:00:00Z",
+    "stage": "group",
+    "group": "L",
+    "venue": "SoFi Stadium, Los Angeles"
+  },
+  {
+    "id": "match_073",
+    "home_team_id": "aus",
+    "away_team_id": "jpn",
+    "datetime": "2026-06-27T17:00:00Z",
+    "stage": "r32",
+    "group": null,
+    "venue": "MetLife Stadium, New York"
+  },
+  {
+    "id": "match_074",
+    "home_team_id": "tun",
+    "away_team_id": "gha",
+    "datetime": "2026-06-27T20:00:00Z",
+    "stage": "r32",
+    "group": null,
+    "venue": "AT&T Stadium, Dallas"
+  },
+  {
+    "id": "match_075",
+    "home_team_id": "sui",
+    "away_team_id": "cmr",
+    "datetime": "2026-06-27T14:00:00Z",
+    "stage": "r32",
+    "group": null,
+    "venue": "SoFi Stadium, Los Angeles"
+  },
+  {
+    "id": "match_076",
+    "home_team_id": "uru",
+    "away_team_id": "can",
+    "datetime": "2026-06-27T17:00:00Z",
+    "stage": "r32",
+    "group": null,
+    "venue": "Hard Rock Stadium, Miami"
+  },
+  {
+    "id": "match_077",
+    "home_team_id": "ned",
+    "away_team_id": "civ",
+    "datetime": "2026-06-28T20:00:00Z",
+    "stage": "r32",
+    "group": null,
+    "venue": "AT&T Park, San Francisco"
+  },
+  {
+    "id": "match_078",
+    "home_team_id": "ita",
+    "away_team_id": "qat",
+    "datetime": "2026-06-28T14:00:00Z",
+    "stage": "r32",
+    "group": null,
+    "venue": "Lincoln Financial Field, Philadelphia"
+  },
+  {
+    "id": "match_079",
+    "home_team_id": "egy",
+    "away_team_id": "irn",
+    "datetime": "2026-06-28T17:00:00Z",
+    "stage": "r32",
+    "group": null,
+    "venue": "Lumen Field, Seattle"
+  },
+  {
+    "id": "match_080",
+    "home_team_id": "nor",
+    "away_team_id": "pol",
+    "datetime": "2026-06-28T20:00:00Z",
+    "stage": "r32",
+    "group": null,
+    "venue": "NRG Stadium, Houston"
+  },
+  {
+    "id": "match_081",
+    "home_team_id": "usa",
+    "away_team_id": "kor",
+    "datetime": "2026-07-01T17:00:00Z",
+    "stage": "r16",
+    "group": null,
+    "venue": "MetLife Stadium, New York"
+  },
+  {
+    "id": "match_082",
+    "home_team_id": "arg",
+    "away_team_id": "col",
+    "datetime": "2026-07-01T20:00:00Z",
+    "stage": "r16",
+    "group": null,
+    "venue": "AT&T Stadium, Dallas"
+  },
+  {
+    "id": "match_083",
+    "home_team_id": "fra",
+    "away_team_id": "par",
+    "datetime": "2026-07-01T17:00:00Z",
+    "stage": "r16",
+    "group": null,
+    "venue": "SoFi Stadium, Los Angeles"
+  },
+  {
+    "id": "match_084",
+    "home_team_id": "eng",
+    "away_team_id": "cro",
+    "datetime": "2026-07-01T20:00:00Z",
+    "stage": "r16",
+    "group": null,
+    "venue": "Hard Rock Stadium, Miami"
+  },
+  {
+    "id": "match_085",
+    "home_team_id": "bra",
+    "away_team_id": "srb",
+    "datetime": "2026-07-02T17:00:00Z",
+    "stage": "r16",
+    "group": null,
+    "venue": "AT&T Park, San Francisco"
+  },
+  {
+    "id": "match_086",
+    "home_team_id": "por",
+    "away_team_id": "uru",
+    "datetime": "2026-07-02T20:00:00Z",
+    "stage": "r16",
+    "group": null,
+    "venue": "Lincoln Financial Field, Philadelphia"
+  },
+  {
+    "id": "match_087",
+    "home_team_id": "ger",
+    "away_team_id": "ned",
+    "datetime": "2026-07-02T17:00:00Z",
+    "stage": "r16",
+    "group": null,
+    "venue": "Lumen Field, Seattle"
+  },
+  {
+    "id": "match_088",
+    "home_team_id": "esp",
+    "away_team_id": "ita",
+    "datetime": "2026-07-02T20:00:00Z",
+    "stage": "r16",
+    "group": null,
+    "venue": "NRG Stadium, Houston"
+  },
+  {
+    "id": "match_089",
+    "home_team_id": "usa",
+    "away_team_id": "arg",
+    "datetime": "2026-07-05T17:00:00Z",
+    "stage": "qf",
+    "group": null,
+    "venue": "MetLife Stadium, New York"
+  },
+  {
+    "id": "match_090",
+    "home_team_id": "fra",
+    "away_team_id": "eng",
+    "datetime": "2026-07-05T20:00:00Z",
+    "stage": "qf",
+    "group": null,
+    "venue": "AT&T Stadium, Dallas"
+  },
+  {
+    "id": "match_091",
+    "home_team_id": "bra",
+    "away_team_id": "por",
+    "datetime": "2026-07-06T17:00:00Z",
+    "stage": "qf",
+    "group": null,
+    "venue": "SoFi Stadium, Los Angeles"
+  },
+  {
+    "id": "match_092",
+    "home_team_id": "ger",
+    "away_team_id": "esp",
+    "datetime": "2026-07-06T20:00:00Z",
+    "stage": "qf",
+    "group": null,
+    "venue": "Hard Rock Stadium, Miami"
+  },
+  {
+    "id": "match_093",
+    "home_team_id": "arg",
+    "away_team_id": "fra",
+    "datetime": "2026-07-09T20:00:00Z",
+    "stage": "sf",
+    "group": null,
+    "venue": "MetLife Stadium, New York"
+  },
+  {
+    "id": "match_094",
+    "home_team_id": "esp",
+    "away_team_id": "eng",
+    "datetime": "2026-07-09T20:00:00Z",
+    "stage": "sf",
+    "group": null,
+    "venue": "AT&T Stadium, Dallas"
+  },
+  {
+    "id": "match_095",
+    "home_team_id": "ger",
+    "away_team_id": "bra",
+    "datetime": "2026-07-12T17:00:00Z",
+    "stage": "third_place",
+    "group": null,
+    "venue": "Hard Rock Stadium, Miami"
+  },
+  {
+    "id": "match_096",
+    "home_team_id": "arg",
+    "away_team_id": "esp",
+    "datetime": "2026-07-12T20:00:00Z",
+    "stage": "final",
+    "group": null,
+    "venue": "MetLife Stadium, New York"
+  },
+  {
+    "id": "match_097",
+    "home_team_id": "usa",
+    "away_team_id": "nzl",
+    "datetime": "2026-06-27T16:00:00Z",
+    "stage": "r32",
+    "group": null,
+    "venue": "MetLife Stadium, New York"
+  },
+  {
+    "id": "match_098",
+    "home_team_id": "mex",
+    "away_team_id": "kor",
+    "datetime": "2026-06-27T19:00:00Z",
+    "stage": "r32",
+    "group": null,
+    "venue": "AT&T Stadium, Dallas"
+  },
+  {
+    "id": "match_099",
+    "home_team_id": "arg",
+    "away_team_id": "bol",
+    "datetime": "2026-06-27T22:00:00Z",
+    "stage": "r32",
+    "group": null,
+    "venue": "NRG Stadium, Houston"
+  },
+  {
+    "id": "match_100",
+    "home_team_id": "fra",
+    "away_team_id": "par",
+    "datetime": "2026-06-28T16:00:00Z",
+    "stage": "r32",
+    "group": null,
+    "venue": "SoFi Stadium, Los Angeles"
+  },
+  {
+    "id": "match_101",
+    "home_team_id": "eng",
+    "away_team_id": "hon",
+    "datetime": "2026-06-28T19:00:00Z",
+    "stage": "r32",
+    "group": null,
+    "venue": "Lincoln Financial Field, Philadelphia"
+  },
+  {
+    "id": "match_102",
+    "home_team_id": "bra",
+    "away_team_id": "crc",
+    "datetime": "2026-06-28T22:00:00Z",
+    "stage": "r32",
+    "group": null,
+    "venue": "Rose Bowl, Pasadena"
+  },
+  {
+    "id": "match_103",
+    "home_team_id": "por",
+    "away_team_id": "sau",
+    "datetime": "2026-06-29T16:00:00Z",
+    "stage": "r32",
+    "group": null,
+    "venue": "BMO Field, Toronto"
+  },
+  {
+    "id": "match_104",
+    "home_team_id": "ger",
+    "away_team_id": "pan",
+    "datetime": "2026-06-29T19:00:00Z",
+    "stage": "r32",
+    "group": null,
+    "venue": "Hard Rock Stadium, Miami"
+  }
+]
