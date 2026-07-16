@@ -81,7 +81,7 @@ export function Navigation() {
 
       {/* Bottom section */}
       <div className="px-5 py-4 border-t border-white/10 space-y-1">
-        <p className="text-xs text-slate-500">数据更新: 2026-06-01</p>
+        <p className="text-xs text-slate-500">数据更新: {new Date().toISOString().slice(0, 10)}</p>
         <p className="text-xs text-slate-600">v1.0.0</p>
       </div>
     </div>
